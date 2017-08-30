@@ -1,0 +1,8 @@
+.cover-photo {
+    max-height:      160px;
+}
+
+img {
+    image-orientation: from-image;
+}
+
